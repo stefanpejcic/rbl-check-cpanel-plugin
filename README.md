@@ -1,6 +1,6 @@
 # RBL check cPanel plugin
 
-Simple cPanel plugin that allows users to check any ip in ocer 100 RBL.
+Simple cPanel plugin that allows users to check any ip in over 100 RBL.
 
 <img src="https://raw.githubusercontent.com/stefanpejcic/rbl-check-cpanel-plugin/main/assets/img/screenshoot.png"></img>
 
